@@ -4,6 +4,9 @@ description: 30DayMapChallenge to highlight datasets for response & research
 url: "http://cadooley.github.io/"
 permalink: /maps/
 
+exclude:
+  - README.md
+
 footer-links:
   github: cadooley
   twitter: claire_dooley
