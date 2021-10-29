@@ -3,6 +3,6 @@
 
 ## testing
 
-![test star](/maps/test_star_small.png)
+![test star](./maps/test_star_small.png)
 
 
