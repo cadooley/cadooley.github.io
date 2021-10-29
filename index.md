@@ -5,8 +5,6 @@
 
 ## testing
 
-![](/maps/test_star.png)
+![test star](/maps/test_star.png)
 
-## testing
 
-![](/test_star.png)
