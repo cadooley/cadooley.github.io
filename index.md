@@ -1,4 +1,12 @@
 # test head
 ## test sub head
 
-![test star] (https://cadooley.github.io/maps/test_star.png)
+![test star](test_star.png)
+
+## testing
+
+![](/maps/test_star.png)
+
+## testing
+
+![](/test_star.png)
