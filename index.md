@@ -1,9 +1,10 @@
 
-![Map0](/maps/map0_tn.png) 
-![Map0](/maps/map0_tn.png)
-![Map0](/maps/map0_tn.png)
+[![Map0](/maps/map0_tn.png)](https://cadooley.github.io/maps/)
 <br />
-[Map Challenge Intro](https://cadooley.github.io/maps/) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Map Challenge Intro** <br />
+<br />
+<br />
 <br />
 ![twitter](/maps/twitter_t_logo_small.png)
 &nbsp;
