@@ -6,4 +6,4 @@
 <br /> <br /> <br />
 [![twitter](/maps/twitter_t_logo_small.png)](https://twitter.com/Claire_Dooley)
 &nbsp;
-[![github](/maps/GitHub-Mark-32px.png)](https://github.com/cadooley)
+[![github](/maps/GitHub-Mark-64px_small.png)](https://github.com/cadooley)
