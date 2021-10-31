@@ -1,5 +1,5 @@
 
-[![Map0](/maps/map0_tn.png)](https://cadooley.github.io/maps/)
+[![Map0](/maps/map0_tn.png)](https://cadooley.github.io/2021/10/31/MapChallengeIntro.html)
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Map Challenge Intro** <br />
