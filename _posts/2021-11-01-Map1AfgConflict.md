@@ -1,5 +1,5 @@
 
-![map0](/maps/map1_post.png)
+![map1](/maps/map1_afg_conflict_events_post.png)
 
 # Map 1: Afghanistan conflict locations | 1st Nov 2021
 
