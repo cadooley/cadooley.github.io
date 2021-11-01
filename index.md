@@ -3,7 +3,7 @@
 [![Map1](/maps/map1_afg_conflict_events_tn.jpg)](https://cadooley.github.io/2021/11/01/Map1AfgConflict.html)
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**Map Challenge Intro** &nbsp;&nbsp;&nbsp;&nbsp; **Map 1 Afghanistan Conflict** <br />
+**Map Challenge Intro** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Map 1 Afghanistan Conflict** <br />
 <br /> <br /> <br />
 [![twitter](/maps/twitter_t_logo_small.png)](https://twitter.com/Claire_Dooley)
 &nbsp;
