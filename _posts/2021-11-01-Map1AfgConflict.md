@@ -10,13 +10,13 @@
 
 ### Data
 
-- Armed Conflict Location and Event Data – ACLED (Raleigh et al., 2010; https://acleddata.com/) <br />
-- GADM administrative boundaries (Global Administrative Areas, 2020; https://gadm.org/data.html) <br />
+- Armed Conflict Location and Event Data – ACLED (Raleigh et al., 2010; [https://acleddata.com/](https://acleddata.com/)) <br />
+- GADM administrative boundaries (Global Administrative Areas, 2020; [https://gadm.org/data.html](https://gadm.org/data.html)) <br />
 <br />
 
 ### Code
 
-Available here: https://github.com/cadooley/map_challenge_2021/blob/main/RScripts/map1_afg_conflict_events.R <br />
+Available here: [https://github.com/cadooley/map_challenge_2021/blob/main/RScripts/map1_afg_conflict_events.R](https://github.com/cadooley/map_challenge_2021/blob/main/RScripts/map1_afg_conflict_events.R) <br />
 <br />
 I used the *sf* (Pebesma, 2018) and *data.tables* (Dowle et al., 2021) packages to convert data into an easy-to-use format, and the *viridis* package (Garnier et al., 2021) for the colorblind-friendly colour palette called ‘mako’. <br />
 <br />
@@ -36,11 +36,11 @@ Afghanistan, like many other countries, faces a multitude of interacting factors
 
 ### Citations
 
-- Raleigh, C., Linke, A., Hegre, H., Karlsen. J. (2010). “Introducing ACLED-Armed Conflict Location and Event Data.” Journal of Peace Research 47(5) 651- 660. Data downloaded on 30/10/2021 from  https://acleddata.com/
-- Global Administrative Areas (2020). “GADM database of Global Administrative Areas, version 3.6.” Data downloaded on 30/10/2021 from https://gadm.org/data.html
-- Pebesma, E. (2018). “Simple Features for R: Standardized Support for Spatial Vector Data.” The R Journal, 10(1), 439–446. doi: 10.32614/RJ-2018-009, https://doi.org/10.32614/RJ-2018-009
-- Dowle, M., et al. (2021) “ data.table: Extension of 'data.frame’ ” https://r-datatable.com, https://Rdatatable.gitlab.io/data.table, https://github.com/Rdatatable/data.table
-- Garnier, S., Ross, N., Rudis, R., Camargo, P.A., Sciaini, M., Scherer, C. (2021). “viridis - Colorblind-Friendly Color Maps for R.” doi: 10.5281/zenodo.4679424, R package version 0.6.2, https://sjmgarnier.github.io/viridis/
+- Raleigh, C., Linke, A., Hegre, H., Karlsen. J. (2010). “Introducing ACLED-Armed Conflict Location and Event Data.” Journal of Peace Research 47(5) 651- 660. Data downloaded on 30/10/2021 from [https://acleddata.com/](https://acleddata.com/)
+- Global Administrative Areas (2020). “GADM database of Global Administrative Areas, version 3.6.” Data downloaded on 30/10/2021 from [https://gadm.org/data.html](https://gadm.org/data.html)
+- Pebesma, E. (2018). “Simple Features for R: Standardized Support for Spatial Vector Data.” The R Journal, 10(1), 439–446. [doi: 10.32614/RJ-2018-009](https://doi.org/10.32614/RJ-2018-009)
+- Dowle, M., et al. (2021) “ data.table: Extension of 'data.frame’ ” [https://r-datatable.com](https://r-datatable.com), [https://Rdatatable.gitlab.io/data.table](https://Rdatatable.gitlab.io/data.table), [https://github.com/Rdatatable/data.table](https://github.com/Rdatatable/data.table)
+- Garnier, S., Ross, N., Rudis, R., Camargo, P.A., Sciaini, M., Scherer, C. (2021). “viridis - Colorblind-Friendly Color Maps for R.” doi: 10.5281/zenodo.4679424, R package version 0.6.2, [https://sjmgarnier.github.io/viridis/](https://sjmgarnier.github.io/viridis/)
 
 <br /> <br /> <br /> <br />
 [Back to main](https://cadooley.github.io/)
