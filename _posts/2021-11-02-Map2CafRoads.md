@@ -1,5 +1,5 @@
 
-![map2](/maps/map2_caf_roads.png)
+![map2](/maps/map2_caf_roads.jpg)
 
 # Map 2: Central African Republic roads | 2nd Nov 2021
 
