@@ -4,7 +4,7 @@
 
 # Map Challenge Intro | 31st Oct 2021
 
-*Post by Claire Dooley* <br />
+*Claire Dooley* <br />
 <br />
 
 Throughout November, I will be making many maps as part of a fantastic initiative called [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=hashtag_click) started by [Topi Tjukanov](https://twitter.com/tjukanov). I'm going to use this month to create maps that highlight spatial datasets that are essential for humanitarian response and research. Before diving in, I thought I'd begin with the above world map of national boundaries - the backdrop of all maps to come! <br />
@@ -19,10 +19,10 @@ The map image above was created using the 'rworldmap' R package (South, 2011).
 <br />
 ### Citations
 South, Andy 2011 rworldmap: A New R package for Mapping Global Data. The R Journal Vol. 3/1 : 35-43. [https://github.com/AndySouth/rworldmap/](https://github.com/AndySouth/rworldmap/)
-<br /> <br /> <br /> <br />
+<br /> <br /> <br /> 
 
 License: [CC BY](https://creativecommons.org/licenses/by/4.0/) <br />
-<br />
+<br /> <br />
 [Back to main](https://cadooley.github.io/)
 <br /> <br />
 [![twitter](/maps/twitter_t_logo_small.png)](https://twitter.com/Claire_Dooley)
