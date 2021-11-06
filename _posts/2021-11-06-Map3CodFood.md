@@ -43,3 +43,10 @@ Harmonising boundaries and unit identifiers can be complex and sensitive. For mo
 - Neuwirth, E. (2014). "RColorBrewer: ColorBrewer Palettes. R package version 1.1-2" [https://CRAN.R-project.org/package=RColorBrewer]( https://CRAN.R-project.org/package=RColorBrewer)
 - IPC Global Partners. (2021). "Integrated Food Security Phase Classification Technical Manual Version 3.1. Evidence and Standards for Better Food Security and Nutrition Decisions." Rome. [http://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/manual/IPC_Technical_Manual_3_Final.pdf](http://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/manual/IPC_Technical_Manual_3_Final.pdf)
 - Center for International Earth Science Information Network (CIESIN), Columbia University; Flowminder Foundation; United Nations Population Fund (UNFPA); WorldPop, University of Southampton. (2020). "Harmonising Subnational Boundaries". Palisades, NY: Georeferenced Infrastructure and Demographic Data for Development (GRID3). [https://doi.org/10.7916/d8-k3h9-sf83](https://doi.org/10.7916/d8-k3h9-sf83). Accessed 06/11/2021
+
+<br /> <br /> <br /> <br />
+[Back to main](https://cadooley.github.io/)
+<br /> <br />
+[![twitter](/maps/twitter_t_logo_small.png)](https://twitter.com/Claire_Dooley)
+&nbsp;
+[![github](/maps/GitHub-Mark-64px_small.png)](https://github.com/cadooley)
