@@ -3,7 +3,7 @@
 
 # Map 2: Central African Republic roads | 2nd Nov 2021
 
-*Post by Claire Dooley* <br />
+*Claire Dooley* <br />
 <br />
 
 **#30DayMapChallenge themes:** lines & OpenStreetMap <br />
