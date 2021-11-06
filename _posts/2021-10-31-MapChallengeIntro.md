@@ -4,6 +4,9 @@
 
 # Map Challenge Intro | 31st Oct 2021
 
+*Post by Claire Dooley* <br />
+<br />
+
 Throughout November, I will be making many maps as part of a fantastic initiative called [#30DayMapChallenge](https://twitter.com/search?q=%2330DayMapChallenge&src=hashtag_click) started by [Topi Tjukanov](https://twitter.com/tjukanov). I'm going to use this month to create maps that highlight spatial datasets that are essential for humanitarian response and research. Before diving in, I thought I'd begin with the above world map of national boundaries - the backdrop of all maps to come! <br />
 <br />
 Armed conflict and natural disasters cause fatalities, diminshed health and forced displacement. They disrupt services and economies leading to elevated rates of disease, poverty and hunger. Faced with complex and fast-changing situations, timely and accurate data are vital for understanding the pathways of support and assistance that are most effective in providing short-term benefits and long-term prosperity for people affected by crises. Over the last few years, UNOCHA's [Centre for Humanitarian Data](https://centre.humdata.org) has made huge strides in collating datasets on a publicly available online platform called the [Humanitarian Data Exchange (HDX)](https://data.humdata.org/). The platform aims to increase accessibility and usability of existing data as well as highlight gaps in available data and areas of duplicated efforts. <br />
@@ -17,6 +20,9 @@ The map image above was created using the 'rworldmap' R package (South, 2011).
 ### Citations
 South, Andy 2011 rworldmap: A New R package for Mapping Global Data. The R Journal Vol. 3/1 : 35-43. [https://github.com/AndySouth/rworldmap/](https://github.com/AndySouth/rworldmap/)
 <br /> <br /> <br /> <br />
+
+License: [CC BY](https://creativecommons.org/licenses/by/4.0/) <br />
+<br />
 [Back to main](https://cadooley.github.io/)
 <br /> <br />
 [![twitter](/maps/twitter_t_logo_small.png)](https://twitter.com/Claire_Dooley)
