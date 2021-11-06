@@ -2,7 +2,7 @@
 ![map1](/maps/map1_afg_conflict_events_post.png)
 
 # Map 1: Afghanistan conflict locations | 1st Nov 2021
-
+*Claire Dooley* <br />
 <br />
 
 **#30DayMapChallenge theme:** points <br />
@@ -42,7 +42,9 @@ Afghanistan, like many other countries, faces a multitude of interacting factors
 - Dowle, M., et al. (2021) “ data.table: Extension of 'data.frame’ ” [https://r-datatable.com](https://r-datatable.com), [https://Rdatatable.gitlab.io/data.table](https://Rdatatable.gitlab.io/data.table), [https://github.com/Rdatatable/data.table](https://github.com/Rdatatable/data.table)
 - Garnier, S., Ross, N., Rudis, R., Camargo, P.A., Sciaini, M., Scherer, C. (2021). “viridis - Colorblind-Friendly Color Maps for R.” doi: 10.5281/zenodo.4679424, R package version 0.6.2, [https://sjmgarnier.github.io/viridis/](https://sjmgarnier.github.io/viridis/)
 
-<br /> <br /> <br /> <br />
+<br /> <br /> <br /> 
+License: [CC BY](https://creativecommons.org/licenses/by/4.0/) <br />
+<br /> <br />
 [Back to main](https://cadooley.github.io/)
 <br /> <br />
 [![twitter](/maps/twitter_t_logo_small.png)](https://twitter.com/Claire_Dooley)
