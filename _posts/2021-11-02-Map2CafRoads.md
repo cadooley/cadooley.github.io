@@ -3,6 +3,7 @@
 
 # Map 2: Central African Republic roads | 2nd Nov 2021
 
+*Post by Claire Dooley* <br />
 <br />
 
 **#30DayMapChallenge themes:** lines & OpenStreetMap <br />
@@ -44,7 +45,9 @@ Attempts to improve the availability of road network data also comes from the re
 - Wang, W., Yang, N., Zhang, Y., Wang, F., Cao, T., Eklund, P. (2016). “A review of road extraction from remote sensing images”. Journal of Traffic and Transportation Engineering (English Edition). [https://doi.org/10.1016/j.jtte.2016.05.005](https://doi.org/10.1016/j.jtte.2016.05.005)
 - Brewer, E., Lin, J., Kemper, P., Hennin, J., Runfola, D. (2021). “Predicting road quality using high resolution satellite imagery: A transfer learning approach”. PLoS ONE 16(7): e0253370. [https://doi.org/10.1371/journal.pone.0253370](https://doi.org/10.1371/journal.pone.0253370)
 
-<br /> <br /> <br /> <br />
+<br /> <br /> <br /> 
+License: [CC BY](https://creativecommons.org/licenses/by/4.0/) <br />
+<br /> <br />
 [Back to main](https://cadooley.github.io/)
 <br /> <br />
 [![twitter](/maps/twitter_t_logo_small.png)](https://twitter.com/Claire_Dooley)
