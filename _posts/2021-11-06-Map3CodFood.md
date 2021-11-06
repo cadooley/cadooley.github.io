@@ -3,7 +3,7 @@
 
 # Map 3: Democratic Republic of Congo food security | 6th Nov 2021 
 
-* Claire Dooley* <br />
+*Claire Dooley* <br />
 <br />
 
 **#30DayMapChallenge theme:** red <br />
