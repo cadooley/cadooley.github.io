@@ -43,7 +43,6 @@ The last several decades have seen an increasing number of research and evidence
 - Natural Earth. (2021). “Admin 0 boundaries 'map unit' boundaries”. [https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/]( https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-details/). Downloaded data on 06/11/2021
 - Pebesma, E. (2018). “Simple Features for R: Standardized Support for Spatial Vector Data.” The R Journal, 10(1), 439–446. [doi: 10.32614/RJ-2018-009]( doi: 10.32614/RJ-2018-009)
 - Dowle, M., et al. (2021) “ data.table: Extension of 'data.frame’ ” [https://r-datatable.com]( https://r-datatable.com), [https://Rdatatable.gitlab.io/data.table]( https://r-datatable.com), [https://github.com/Rdatatable/data.table]( https://r-datatable.com)
-
 - Neuwirth, E. (2014). "RColorBrewer: ColorBrewer Palettes. R package version 1.1-2" [https://CRAN.R-project.org/package=RColorBrewer]( https://CRAN.R-project.org/package=RColorBrewer)
 - Adger, W.N., & Brooks, N. (2003). “Does global environmental change cause vulnerability to disaster?” In M. Pelling (Ed.), Natural Disasters and Development in a Globalising World (pp. 19-42). Routledge.
 - Swain, D.L., Singh, D., Touma, D., Diffenbaugh, N.S. (2020). “Attributing Extreme Events to Climate Change: A New Frontier in a Warming World”. One Earth. 2, 522-527. [https://doi.org/10.1016/j.oneear.2020.05.011]( https://doi.org/10.1016/j.oneear.2020.05.011)
